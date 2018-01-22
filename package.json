@@ -1,0 +1,24 @@
+{
+  "name": "nodemiddleserver",
+  "version": "1.0.0",
+  "description": "node middle server",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/songxiaoyuname/node-middle-server.git"
+  },
+  "keywords": [
+    "node",
+    "middle",
+    "server"
+  ],
+  "author": "xiaoyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/songxiaoyuname/node-middle-server/issues"
+  },
+  "homepage": "https://github.com/songxiaoyuname/node-middle-server#readme"
+}
